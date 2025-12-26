@@ -8,3 +8,7 @@
 -https://youtu.be/ZEXpxIwpGbY?si=KirE7lSbO2nFEbrt
 
 -https://www.khanacademy.org/math/linear-algebra/matrix-transformations/lin-trans-examples/v/rotation-in-r3-around-the-x-axis
+
+-https://www.songho.ca/opengl/gl_projectionmatrix.html
+
+-https://www.scratchapixel.com/lessons/3d-basic-rendering/perspective-and-orthographic-projection-matrix/opengl-perspective-projection-matrix.html
