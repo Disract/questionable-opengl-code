@@ -1,5 +1,5 @@
 ﻿  main.cpp
-C:\graphics-physics\opengl\Proj\Project1\main.cpp(242,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\graphics-physics\opengl\Proj\Project1\main.cpp(356,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
   Searching libraries
       Searching C:\graphics-physics\opengl\Proj\Project1\\depdencies\lib\glfw3.lib:
       Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\opengl32.lib:
@@ -83,9 +83,9 @@ C:\graphics-physics\opengl\Proj\Project1\main.cpp(242,26): warning C4244: '=': c
       Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\szip.lib:
       Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\zlib.lib:
       Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\zstd.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\msvcprt.lib:
       Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\MSVCRT.lib:
       Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\OLDNAMES.lib:
-      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\msvcprt.lib:
       Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\vcruntime.lib:
       Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\ucrt\x64\ucrt.lib:
       Searching C:\graphics-physics\opengl\Proj\Project1\\depdencies\lib\glfw3.lib:
@@ -170,9 +170,9 @@ C:\graphics-physics\opengl\Proj\Project1\main.cpp(242,26): warning C4244: '=': c
       Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\szip.lib:
       Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\zlib.lib:
       Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\zstd.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\msvcprt.lib:
       Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\MSVCRT.lib:
       Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\OLDNAMES.lib:
-      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\msvcprt.lib:
       Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\vcruntime.lib:
       Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\ucrt\x64\ucrt.lib:
       Searching C:\graphics-physics\opengl\Proj\Project1\\depdencies\lib\glfw3.lib:
@@ -264,9 +264,9 @@ C:\graphics-physics\opengl\Proj\Project1\main.cpp(242,26): warning C4244: '=': c
       Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\szip.lib:
       Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\zlib.lib:
       Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\zstd.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\msvcprt.lib:
       Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\MSVCRT.lib:
       Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\OLDNAMES.lib:
-      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\msvcprt.lib:
       Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\vcruntime.lib:
       Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\ucrt\x64\ucrt.lib:
   Finished searching libraries
@@ -353,9 +353,9 @@ C:\graphics-physics\opengl\Proj\Project1\main.cpp(242,26): warning C4244: '=': c
       Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\szip.lib:
       Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\zlib.lib:
       Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\zstd.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\msvcprt.lib:
       Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\MSVCRT.lib:
       Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\OLDNAMES.lib:
-      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\msvcprt.lib:
       Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\vcruntime.lib:
       Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\ucrt\x64\ucrt.lib:
   Finished searching libraries
@@ -442,14 +442,14 @@ C:\graphics-physics\opengl\Proj\Project1\main.cpp(242,26): warning C4244: '=': c
       Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\szip.lib:
       Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\zlib.lib:
       Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\zstd.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\msvcprt.lib:
       Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\MSVCRT.lib:
       Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\OLDNAMES.lib:
-      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\msvcprt.lib:
       Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\vcruntime.lib:
       Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\ucrt\x64\ucrt.lib:
   Finished searching libraries
   Generating code
-  1 of 391 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+  1 of 421 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
     7 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
@@ -536,9 +536,9 @@ C:\graphics-physics\opengl\Proj\Project1\main.cpp(242,26): warning C4244: '=': c
       Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\szip.lib:
       Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\zlib.lib:
       Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\zstd.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\msvcprt.lib:
       Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\MSVCRT.lib:
       Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\OLDNAMES.lib:
-      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\msvcprt.lib:
       Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\vcruntime.lib:
       Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\ucrt\x64\ucrt.lib:
       Searching C:\graphics-physics\opengl\Proj\Project1\\depdencies\lib\glfw3.lib:
@@ -623,9 +623,9 @@ C:\graphics-physics\opengl\Proj\Project1\main.cpp(242,26): warning C4244: '=': c
       Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\szip.lib:
       Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\zlib.lib:
       Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\zstd.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\msvcprt.lib:
       Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\MSVCRT.lib:
       Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\OLDNAMES.lib:
-      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\msvcprt.lib:
       Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\vcruntime.lib:
   Finished searching libraries
   Searching libraries
@@ -711,98 +711,9 @@ C:\graphics-physics\opengl\Proj\Project1\main.cpp(242,26): warning C4244: '=': c
       Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\szip.lib:
       Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\zlib.lib:
       Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\zstd.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\msvcprt.lib:
       Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\MSVCRT.lib:
       Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\OLDNAMES.lib:
-      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\msvcprt.lib:
-      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\vcruntime.lib:
-      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\ucrt\x64\ucrt.lib:
-  Finished searching libraries
-  Searching libraries
-      Searching C:\graphics-physics\opengl\Proj\Project1\\depdencies\lib\glfw3.lib:
-      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\opengl32.lib:
-      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\user32.lib:
-      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\gdi32.lib:
-      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\shell32.lib:
-      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\kernel32.lib:
-      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\winspool.lib:
-      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\comdlg32.lib:
-      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\advapi32.lib:
-      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\ole32.lib:
-      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\oleaut32.lib:
-      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\uuid.lib:
-      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\odbc32.lib:
-      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\odbccp32.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\abseil_dll.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\absl_decode_rust_punycode.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\absl_demangle_rust.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\absl_flags_commandlineflag.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\absl_flags_commandlineflag_internal.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\absl_flags_config.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\absl_flags_internal.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\absl_flags_marshalling.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\absl_flags_parse.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\absl_flags_private_handle_accessor.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\absl_flags_program_name.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\absl_flags_reflection.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\absl_flags_usage.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\absl_flags_usage_internal.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\absl_log_flags.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\absl_log_internal_structured_proto.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\absl_poison.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\absl_tracing_internal.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\absl_utf8_for_code_point.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\aec.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\amd.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\boost_atomic-vc143-mt-x64-1_88.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\boost_chrono-vc143-mt-x64-1_88.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\boost_container-vc143-mt-x64-1_88.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\boost_context-vc143-mt-x64-1_88.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\boost_date_time-vc143-mt-x64-1_88.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\boost_filesystem-vc143-mt-x64-1_88.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\boost_graph-vc143-mt-x64-1_88.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\boost_iostreams-vc143-mt-x64-1_88.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\boost_program_options-vc143-mt-x64-1_88.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\boost_random-vc143-mt-x64-1_88.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\boost_serialization-vc143-mt-x64-1_88.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\boost_system-vc143-mt-x64-1_88.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\boost_thread-vc143-mt-x64-1_88.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\boost_wserialization-vc143-mt-x64-1_88.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\brotlicommon.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\brotlidec.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\brotlienc.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\bz2.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\camd.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\ccolamd.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\ceres.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\cgnsdll.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\cholmod.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\colamd.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\cxsparse.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\dbus-1.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\double-conversion.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\flann.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\flann_cpp.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\flatbuffers.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\fmt.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\freetype.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\gflags.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\glog.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\hdf5.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\hdf5_hl.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\lapack.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\libcurl.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\libexpat.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\libpng16.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\lz4.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\lzma.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\openblas.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\suitesparseconfig.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\szip.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\zlib.lib:
-      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\zstd.lib:
-      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\MSVCRT.lib:
-      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\OLDNAMES.lib:
-      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\msvcprt.lib:
       Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\vcruntime.lib:
       Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\ucrt\x64\ucrt.lib:
   Finished searching libraries
@@ -889,9 +800,98 @@ C:\graphics-physics\opengl\Proj\Project1\main.cpp(242,26): warning C4244: '=': c
       Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\szip.lib:
       Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\zlib.lib:
       Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\zstd.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\msvcprt.lib:
       Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\MSVCRT.lib:
       Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\OLDNAMES.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\vcruntime.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\ucrt\x64\ucrt.lib:
+  Finished searching libraries
+  Searching libraries
+      Searching C:\graphics-physics\opengl\Proj\Project1\\depdencies\lib\glfw3.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\opengl32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\user32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\gdi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\shell32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\kernel32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\winspool.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\comdlg32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\advapi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\ole32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\oleaut32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\uuid.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\odbc32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\odbccp32.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\abseil_dll.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\absl_decode_rust_punycode.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\absl_demangle_rust.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\absl_flags_commandlineflag.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\absl_flags_commandlineflag_internal.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\absl_flags_config.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\absl_flags_internal.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\absl_flags_marshalling.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\absl_flags_parse.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\absl_flags_private_handle_accessor.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\absl_flags_program_name.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\absl_flags_reflection.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\absl_flags_usage.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\absl_flags_usage_internal.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\absl_log_flags.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\absl_log_internal_structured_proto.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\absl_poison.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\absl_tracing_internal.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\absl_utf8_for_code_point.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\aec.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\amd.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\boost_atomic-vc143-mt-x64-1_88.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\boost_chrono-vc143-mt-x64-1_88.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\boost_container-vc143-mt-x64-1_88.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\boost_context-vc143-mt-x64-1_88.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\boost_date_time-vc143-mt-x64-1_88.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\boost_filesystem-vc143-mt-x64-1_88.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\boost_graph-vc143-mt-x64-1_88.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\boost_iostreams-vc143-mt-x64-1_88.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\boost_program_options-vc143-mt-x64-1_88.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\boost_random-vc143-mt-x64-1_88.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\boost_serialization-vc143-mt-x64-1_88.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\boost_system-vc143-mt-x64-1_88.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\boost_thread-vc143-mt-x64-1_88.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\boost_wserialization-vc143-mt-x64-1_88.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\brotlicommon.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\brotlidec.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\brotlienc.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\bz2.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\camd.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\ccolamd.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\ceres.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\cgnsdll.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\cholmod.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\colamd.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\cxsparse.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\dbus-1.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\double-conversion.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\flann.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\flann_cpp.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\flatbuffers.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\fmt.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\freetype.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\gflags.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\glog.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\hdf5.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\hdf5_hl.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\lapack.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\libcurl.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\libexpat.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\libpng16.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\lz4.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\lzma.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\openblas.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\suitesparseconfig.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\szip.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\zlib.lib:
+      Searching C:\Hardwa\webcam\vcpkg\installed\x64-windows\lib\zstd.lib:
       Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\msvcprt.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\MSVCRT.lib:
+      Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\OLDNAMES.lib:
       Searching C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\vcruntime.lib:
   Finished searching libraries
   Project1.vcxproj -> C:\graphics-physics\opengl\Proj\Project1\x64\Release\Project1.exe

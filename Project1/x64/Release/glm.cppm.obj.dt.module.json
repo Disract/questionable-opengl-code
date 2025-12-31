@@ -1,0 +1,9 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\graphics-physics\\opengl\\proj\\project1\\depdencies\\include\\glm\\glm.cppm",
+        "ProvidedModule": "",
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
